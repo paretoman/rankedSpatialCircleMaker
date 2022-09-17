@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="410" height="410" viewBox="-102.5 -102.5 205 205">
+<defs>
+</defs>
+<circle cx="0" cy="0" r="100" fill="white" stroke-width="2" stroke="black" />
+<path d="M-6.279051952931318,-99.80267284282715 A100,100,0,0,0,-99.9006217181311,-4.457104478343876 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L-99.9006217181311,-4.457104478343825" stroke-width="1" fill="#eeee00" stroke="black" />
+<path d="M-99.9006217181311,-4.457104478343876 A100,100,0,0,0,-61.07899363471611,79.17926835081458 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L-61.078993634716085,79.17926835081461" stroke-width="1" fill="#eeee00" stroke="black" />
+<path d="M-61.07899363471611,79.17926835081458 A100,100,0,0,0,-43.33705775476098,90.12158135075367 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L-43.33705775476097,90.12158135075367" stroke-width="4" fill="#eeee00" stroke="black" />
+<path d="M-43.33705775476098,90.12158135075367 A100,100,0,0,0,-27.695470394221054,96.0882975166218 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L-27.69547039422105,96.0882975166218" stroke-width="1" fill="#eeee00" stroke="black" />
+<path d="M-27.695470394221054,96.0882975166218 A100,100,0,0,0,56.75955033328276,82.3307563791536 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L56.7595503332827,82.33075637915364" stroke-width="1" fill="#eeee00" stroke="black" />
+<path d="M56.75955033328276,82.3307563791536 A100,100,0,0,0,98.60377426406541,-16.652198079569892 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L98.60377426406541,-16.652198079569896" stroke-width="4" fill="#eeee00" stroke="black" />
+<path d="M98.60377426406541,-16.652198079569892 A100,100,0,0,0,60.06869263637594,-79.94843441216716 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L60.06869263637594,-79.94843441216716" stroke-width="1" fill="#eeee00" stroke="black" />
+<path d="M60.06869263637594,-79.94843441216716 A100,100,0,0,0,34.05921150964894,-94.02111524195507 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L34.05921150964911,-94.02111524195502" stroke-width="1" fill="#eeee00" stroke="black" />
+<path d="M34.05921150964894,-94.02111524195507 A100,100,0,0,0,-6.791716313042941,-99.76909636517284 L-10.0,23.0 Z" fill="white" stroke="black" stroke-width="1" />
+<path d="M-10.0,23.0 L-6.791716313042946,-99.76909636517284" stroke-width="4" fill="#eeee00" stroke="black" />
+<circle cx="-91.65021662659078" cy="40.0029722933057" r="2" fill="white" stroke-width="0.5" stroke="black" />
+<circle cx="-68.18761640943421" cy="73.14676321205098" r="2" fill="grey" stroke-width="0.5" stroke="black" />
+<path d="M45.62046283395592,-88.98748996806037 L-43.33705775476097,90.12158135075367" fill="#eeee00" stroke-width="0.5" stroke="grey" />
+<circle cx="17.70495929740293" cy="98.42019313269662" r="2" fill="white" stroke-width="0.5" stroke="black" />
+<circle cx="-18.65541189070492" cy="98.24446858316323" r="2" fill="grey" stroke-width="0.5" stroke="black" />
+<path d="M98.60377426406541,-16.652198079569903 L-86.13676492745014,50.798205950930935" fill="#eeee00" stroke-width="0.5" stroke="grey" />
+<circle cx="47.57040265223375" cy="-87.96054110511345" r="2" fill="white" stroke-width="0.5" stroke="black" />
+<circle cx="43.91200559468827" cy="-89.84283925083884" r="2" fill="grey" stroke-width="0.5" stroke="black" />
+<path d="M-6.791716313042948,-99.76909636517284 L-11.993352462164777,99.27819245291629" fill="#eeee00" stroke-width="0.5" stroke="grey" />
+<circle cx="0" cy="0" r="2" fill="black" stroke-width="0.5" stroke="black" />
+<circle cx="-29.993947684384906" cy="0.6339083433408206" r="2" fill="blue" stroke-width="0.5" stroke="black" />
+<circle cx="19.902569641406306" cy="25.415849507077354" r="2" fill="red" stroke-width="0.5" stroke="black" />
+<circle cx="11.311420098970075" cy="1.8854700889360494" r="2" fill="orange" stroke-width="0.5" stroke="black" />
+<circle cx="0" cy="0" r="30.00064561774256" fill="none" stroke-width="0.5" stroke="blue" />
+<circle cx="0" cy="0" r="32.28122805125964" fill="none" stroke-width="0.5" stroke="red" />
+<circle cx="0" cy="0" r="11.467485431063634" fill="none" stroke-width="0.5" stroke="orange" />
+</svg>
